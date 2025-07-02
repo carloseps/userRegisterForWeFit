@@ -1,4 +1,4 @@
-# HELP.md - userRegisterForWeFit
+# userRegisterForWeFit
 
 Este documento fornece as instruções necessárias para configurar o ambiente de desenvolvimento e executar o projeto `userRegisterForWeFit`.
 
